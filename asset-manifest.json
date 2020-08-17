@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.b89b396e.chunk.css",
-    "main.js": "./static/js/main.da1edf53.chunk.js",
-    "main.js.map": "./static/js/main.da1edf53.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.673723db.js",
-    "runtime-main.js.map": "./static/js/runtime-main.673723db.js.map",
-    "static/js/2.d3d4c31b.chunk.js": "./static/js/2.d3d4c31b.chunk.js",
-    "static/js/2.d3d4c31b.chunk.js.map": "./static/js/2.d3d4c31b.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.c7153aa2c2e9083e35606edc53701543.js": "./precache-manifest.c7153aa2c2e9083e35606edc53701543.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.b89b396e.chunk.css.map": "./static/css/main.b89b396e.chunk.css.map",
-    "static/js/2.d3d4c31b.chunk.js.LICENSE.txt": "./static/js/2.d3d4c31b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "./static/media/homebanner.fffac679.jpg",
-    "static/media/react_gif.gif": "./static/media/react_gif.60d847f8.gif"
+    "main.css": "./resume/static/css/main.b89b396e.chunk.css",
+    "main.js": "./resume/static/js/main.cd7cf838.chunk.js",
+    "main.js.map": "./resume/static/js/main.cd7cf838.chunk.js.map",
+    "runtime-main.js": "./resume/static/js/runtime-main.a5bb1151.js",
+    "runtime-main.js.map": "./resume/static/js/runtime-main.a5bb1151.js.map",
+    "static/js/2.d3d4c31b.chunk.js": "./resume/static/js/2.d3d4c31b.chunk.js",
+    "static/js/2.d3d4c31b.chunk.js.map": "./resume/static/js/2.d3d4c31b.chunk.js.map",
+    "index.html": "./resume/index.html",
+    "precache-manifest.b2bf1ebbfda83b0a07631bbf8a9bd9b6.js": "./resume/precache-manifest.b2bf1ebbfda83b0a07631bbf8a9bd9b6.js",
+    "service-worker.js": "./resume/service-worker.js",
+    "static/css/main.b89b396e.chunk.css.map": "./resume/static/css/main.b89b396e.chunk.css.map",
+    "static/js/2.d3d4c31b.chunk.js.LICENSE.txt": "./resume/static/js/2.d3d4c31b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./resume/static/media/homebanner.fffac679.jpg",
+    "static/media/react_gif.gif": "./resume/static/media/react_gif.60d847f8.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.673723db.js",
+    "static/js/runtime-main.a5bb1151.js",
     "static/js/2.d3d4c31b.chunk.js",
     "static/css/main.b89b396e.chunk.css",
-    "static/js/main.da1edf53.chunk.js"
+    "static/js/main.cd7cf838.chunk.js"
   ]
 }
