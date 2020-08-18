@@ -1,5 +1,9 @@
 import React from 'react';
+
+
 // import GithubCalenderSec from "./GithubCalenderSec";
+// import ReactGithubCalender from "./react-github-calendar";
+
 
 function Resume() {
     return (
@@ -17,8 +21,7 @@ function Resume() {
             </div>
 
             {/* <div>
-                <GithubCalenderSec />
-
+                <ReactGithubCalender name="sameasychen" />
             </div> */}
 
 
@@ -26,6 +29,7 @@ function Resume() {
                 <div className="col-md-8 pt-3">
                     <div className="px-3">
                         <p>Junior web developer with passion for responsive website design and a firm believer in the mobile-first approach. I have been learning web programming for almost 5 months, and being fascinated by web development. I am keen to gain more experience in this field. I am therefore currently looking for a job or an internship as a front-end developer.</p>
+
                         <h3>Certificate</h3>
                         <div className="row">
                             <div className="col-md-3">
@@ -49,6 +53,19 @@ function Resume() {
 
                             </div>
                         </div>
+
+                        <h3>Project</h3>
+                        <div className="row">
+                            <div className="col-md-3">
+                            <span className="bold">Personal Page</span>
+                            </div>
+                            <div className="col-md-9">
+                                <p className="list"><i class="fas fa-angle-right" />Built a Single-Page Application(SPA) from scratch with React</p>
+                                <p className="list"><i class="fas fa-angle-right" />Developed web pages in Responsive Design using Bootstrap</p>
+                                <p className="list"><i class="fas fa-angle-right" />Built contact form with form validation function</p>
+                            </div>
+                        </div>
+
                         <h3>Education</h3>
                         <div className="row">
                             <div className="col-md-3">
@@ -75,12 +92,12 @@ function Resume() {
                         <div className="mt-3">
                             <h4>Personal Info</h4>
                             <hr></hr>
-                            <h6>Phone:</h6>
-                            <p>123-456-789</p>
+                            {/* <h6>Personal Page:</h6>
+                            <p>https://sameasychen.github.io/</p> */}
                             <h6>Email:</h6>
                             <p>sam.hs.chen@gmail.com</p>
                             <h6>Github:</h6>
-                            <p>123-456-789</p>
+                            <p><a href="https://github.com/sameasychen">sameasychen</a></p>
                         </div>
                         <div className="mt-4">
                             <h4>Skills</h4>
@@ -88,10 +105,12 @@ function Resume() {
                             <p>HTML</p>
                             <p>CSS</p>
                             <p>Javascript(JS)</p>
+                            <p>DOM</p>
                             <p>Bootstrap</p>
                             <p>Version Control (e.g. Git)</p>
                             <p>React</p>
                             <p>Node.js NPM</p>
+
                         </div>
 
                     </div>

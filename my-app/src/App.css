@@ -36,7 +36,7 @@ h2,h3,h4,h5,h6{
 }
 
 .link:link{
-  color: #ff0000;
+  color: #125568;
 }
 
 .link:visited{
@@ -234,6 +234,7 @@ h2,h3,h4,h5,h6{
 }
 
 
+
 /*Contact Section*/
 
 
@@ -256,6 +257,10 @@ h2,h3,h4,h5,h6{
   position: relative;
   max-width: 960px;
   
+}
+
+#map {
+  height: 100%;
 }
 
 /*Contact Section End*/

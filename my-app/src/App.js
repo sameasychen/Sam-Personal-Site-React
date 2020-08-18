@@ -16,10 +16,13 @@ function App() {
         
         <Header />
 
+        
+
         <Switch>
-          <Route path="/" exact component={Home} />
+          
           <Route path="/resume" exact component={Resume} />
           <Route path="/contact" component={Contact} />
+          <Route path="/" exact component={Home} />
         
         </Switch>
 

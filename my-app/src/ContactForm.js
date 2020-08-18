@@ -86,6 +86,10 @@ class ContactForm extends React.Component {
     return (
         <div className="ContactForm container my-5">
             {/* <h4 class="font-weight-bold my-5 text-center">CONTACT ME</h4> */}
+
+            <br/>
+            <br/>
+            <br/>
             <div className="row container mx-auto">
                 <div className="mb-4 col-sm-6">
                     <form onSubmit={this.handleSubmit}>
@@ -166,22 +170,29 @@ class ContactForm extends React.Component {
                     <br/>
 
                     <p class="lineheight">
-                        <span class="font-weight-bold">Phone: </span>
-                        123-456-7890
+                        <span class="font-weight-bold">email: </span>
+                        sam.hs.chen@gmail.com
                     </p>
 
 
                     <br/>
                     <p class="lineheight">
-                        <span class="font-weight-bold">Email: </span>
-                        sam.hs.chen@gmail.com
+                        <span class="font-weight-bold">github: </span>
+                        <a href="https://github.com/sameasychen">sameasychen</a>
                     </p>
 
                 </div>
 
 
             </div>
-
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
 
 
         </div>
