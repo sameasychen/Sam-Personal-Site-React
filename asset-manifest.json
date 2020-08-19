@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.944e576a.chunk.css",
-    "main.js": "./static/js/main.f96a46ef.chunk.js",
-    "main.js.map": "./static/js/main.f96a46ef.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.673723db.js",
-    "runtime-main.js.map": "./static/js/runtime-main.673723db.js.map",
-    "static/js/2.d3d4c31b.chunk.js": "./static/js/2.d3d4c31b.chunk.js",
-    "static/js/2.d3d4c31b.chunk.js.map": "./static/js/2.d3d4c31b.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.65693463b1326673210ae7810040c91d.js": "./precache-manifest.65693463b1326673210ae7810040c91d.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.944e576a.chunk.css.map": "./static/css/main.944e576a.chunk.css.map",
-    "static/js/2.d3d4c31b.chunk.js.LICENSE.txt": "./static/js/2.d3d4c31b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "./static/media/homebanner.fffac679.jpg",
-    "static/media/React.png": "./static/media/React.c954161e.png"
+    "main.css": "/Sam-Personal-Site-React/static/css/main.ef2ea15c.chunk.css",
+    "main.js": "/Sam-Personal-Site-React/static/js/main.9425aa55.chunk.js",
+    "main.js.map": "/Sam-Personal-Site-React/static/js/main.9425aa55.chunk.js.map",
+    "runtime-main.js": "/Sam-Personal-Site-React/static/js/runtime-main.cd437058.js",
+    "runtime-main.js.map": "/Sam-Personal-Site-React/static/js/runtime-main.cd437058.js.map",
+    "static/js/2.d3d4c31b.chunk.js": "/Sam-Personal-Site-React/static/js/2.d3d4c31b.chunk.js",
+    "static/js/2.d3d4c31b.chunk.js.map": "/Sam-Personal-Site-React/static/js/2.d3d4c31b.chunk.js.map",
+    "index.html": "/Sam-Personal-Site-React/index.html",
+    "precache-manifest.ea8dadeba3c01adacb29b1ee5636c411.js": "/Sam-Personal-Site-React/precache-manifest.ea8dadeba3c01adacb29b1ee5636c411.js",
+    "service-worker.js": "/Sam-Personal-Site-React/service-worker.js",
+    "static/css/main.ef2ea15c.chunk.css.map": "/Sam-Personal-Site-React/static/css/main.ef2ea15c.chunk.css.map",
+    "static/js/2.d3d4c31b.chunk.js.LICENSE.txt": "/Sam-Personal-Site-React/static/js/2.d3d4c31b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Sam-Personal-Site-React/static/media/homebanner.fffac679.jpg",
+    "static/media/React.png": "/Sam-Personal-Site-React/static/media/React.c954161e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.673723db.js",
+    "static/js/runtime-main.cd437058.js",
     "static/js/2.d3d4c31b.chunk.js",
-    "static/css/main.944e576a.chunk.css",
-    "static/js/main.f96a46ef.chunk.js"
+    "static/css/main.ef2ea15c.chunk.css",
+    "static/js/main.9425aa55.chunk.js"
   ]
 }
