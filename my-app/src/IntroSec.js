@@ -2,7 +2,7 @@ import React from 'react';
 import Logo from './pics/selfie150.jpg'
 
 import divider from './pics/divider.jpg'
-import react from './pics/react_gif.gif'
+import react from './pics/React.png'
 import pencil from './pics/pencil.jpg'
 
 import { Link } from 'react-router-dom';
@@ -59,7 +59,7 @@ class IntroSec extends React.Component {
               <p>I'm a developer, so I know how to create your website to run across devices using the latest technologies available.</p>
             </div>
             <div className="intropic2 mx-auto col-md-4 col-xs-12">
-              <img className="reactpic mx-auto d-block" src={react} alt="react_gif" Hello />
+              <img className="reactpic rounded-circle mx-auto d-block" src={react} alt="react_gif" Hello />
             </div>
           </div>
 
