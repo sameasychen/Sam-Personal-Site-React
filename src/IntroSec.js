@@ -59,7 +59,7 @@ class IntroSec extends React.Component {
               <p>I'm a developer, so I know how to create your website to run across devices using the latest technologies available.</p>
             </div>
             <div className="intropic2 mx-auto col-md-4 col-xs-12">
-              <img className="reactpic rounded-circle mx-auto d-block" src={react} alt="react_gif" Hello />
+              <img className="reactpic rounded-circle mx-auto d-block" src={react} alt="react_pic" Hello />
             </div>
           </div>
 
