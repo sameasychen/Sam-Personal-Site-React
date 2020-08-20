@@ -2,7 +2,7 @@ import React from 'react';
 import Logo from './pics/selfie150.jpg'
 
 import divider from './pics/divider.jpg'
-import react from './pics/React.png'
+import react from './pics/React.jpg'
 import pencil from './pics/pencil.jpg'
 
 import { Link } from 'react-router-dom';
@@ -80,7 +80,7 @@ class IntroSec extends React.Component {
 
           <Link className="messagebtn mx-auto d-block btn btn-block" to="/Contact"><i class="far fa-envelope" /> Message me</Link>
 
-      
+      d
 
 
         </div>
