@@ -80,9 +80,6 @@ class IntroSec extends React.Component {
 
           <Link className="messagebtn mx-auto d-block btn btn-block" to="/Contact"><i class="far fa-envelope" /> Message me</Link>
 
-      d
-
-
         </div>
 
 
