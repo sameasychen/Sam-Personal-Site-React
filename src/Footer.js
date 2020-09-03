@@ -7,7 +7,7 @@ function Footer() {
     <div className="Footer">
       <div className="sitemap mx-auto row">
         <div className="text-center col">
-          <a className="link" href="">Linkedin</a>
+          <a className="link" href="https://www.linkedin.com/">Linkedin</a>
         </div>
         <div className="text-center col">
           <a className="link" href="https://github.com/sameasychen">Github</a>
@@ -20,7 +20,7 @@ function Footer() {
       </div>
       
       <hr className="FooterHr"/>
-      <p class="copyright text-center small my-0">©Copyright 2020. All Rights Reserved</p>
+      <p className="copyright text-center small my-0">©Copyright 2020. All Rights Reserved</p>
 
     </div>
   );

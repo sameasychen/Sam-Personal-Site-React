@@ -7,11 +7,6 @@ import Logo from './pics/selfie80.jpg'
 
 class Header extends React.Component {
 
-  constructor() {
-    super()
-
-  }
-
 
   render() {
     return (

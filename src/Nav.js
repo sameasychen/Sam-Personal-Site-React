@@ -6,12 +6,6 @@ import { Link } from 'react-router-dom';
 
 class Nav extends React.Component {
 
-  constructor() {
-    super()
-
-  }
-
-
   render() {
     return (
       <div className="row nav mx-auto my-auto h-100">
@@ -27,8 +21,6 @@ class Nav extends React.Component {
         </Link>
         
       </div>
-
-
     );
   }
 }

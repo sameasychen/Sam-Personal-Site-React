@@ -1,10 +1,5 @@
 import React from 'react';
 
-
-// import GithubCalenderSec from "./GithubCalenderSec";
-// import ReactGithubCalender from "./react-github-calendar";
-
-
 function Resume() {
     return (
         <div className="Home mx-auto container-fluid">
@@ -20,16 +15,36 @@ function Resume() {
 
             </div>
 
-            {/* <div class="calendar">
-
-                Loading the data just for you.
-            </div> */}
-
-
             <div className="resumesec mx-auto row my-3">
                 <div className="col-md-8 pt-3">
                     <div className="px-3">
-                        <p>Junior web developer with passion for responsive website design and a firm believer in the mobile-first approach. I have been learning web programming for almost 5 months, and being fascinated by web development. I am keen to gain more experience in this field. I am therefore currently looking for a job or an internship as a front-end developer.</p>
+                        <p>Junior
+                        front end developer with passion for web
+                        develop ment . Ev en wi th 5 years of experience as a mech anical engineer , I d ecided to l earning web development full time to become a programmer I am keen to gain more experience in this field. I am therefore currently looking for a job or an internship as a fron t end developer.</p>
+
+                        <h3>Project</h3>
+                        <div className="row">
+                            <div className="col-md-3">
+                                <span className="bold">My Reads</span>
+                            </div>
+                            <div className="col-md-9">
+                                <p className="list"><i class="fas fa-angle-right" />Create virtual bookshelves to store books and track the shelf state of each book</p>
+                                <p className="list"><i class="fas fa-angle-right" />Search for new books from a Books API to add into your own shelf as a react component</p>
+                                <p className="list"><i class="fas fa-angle-right" />Use React s setState to build functionality to move books between shelves</p>
+                                <p className="list"><i class="fas fa-angle-right" />Use React Router to link pages for easy navigation</p>
+                            </div>
+                        </div>
+                        <div className="row">
+                            <div className="col-md-3">
+                                <span className="bold">Personal Page</span>
+                            </div>
+                            <div className="col-md-9">
+                                <p className="list"><i class="fas fa-angle-right" />Revamped UI and built web pages using React</p>
+                                <p className="list"><i class="fas fa-angle-right" />Used React Router to turn web pages into Single Page Application</p>
+                                <p className="list"><i class="fas fa-angle-right" />Develo p ed web pages in Responsive Design using Bootstrap</p>
+                                <p className="list"><i class="fas fa-angle-right" />Built contact form with form validation using Javascript</p>
+                            </div>
+                        </div>
 
                         <h3>Certificate</h3>
                         <div className="row">
@@ -38,8 +53,9 @@ function Resume() {
                             </div>
                             <div className="col-md-9">
                                 <p><span className="bold">React Developer</span> - Udacity Nanodegreee Program </p>
-                                <p className="list"><i class="fas fa-angle-right" /> Learn React's component model, state management to build new React application.</p>
+                                <p className="list"><i class="fas fa-angle-right" /> Create reusable, focused Class components</p>
                                 <p className="list"><i class="fas fa-angle-right" /> Implemented lifecycle hook and React Router into web application.</p>
+                                <p className="list"><i class="fas fa-angle-right" /> Use Redux to manage complicated state to build enterprise level apps.</p>
 
                             </div>
                         </div>
@@ -51,21 +67,10 @@ function Resume() {
                                 <p><span className="bold">HTML, CSS, and Javascript for Web Developers</span> - Johns Hopkins University</p>
                                 <p className="list"><i class="fas fa-angle-right" /> Learn the basics of HTML5, CSS3, Javascript</p>
                                 <p className="list"><i class="fas fa-angle-right" /> Build responsive static website with bootstrap</p>
-
                             </div>
                         </div>
 
-                        <h3>Project</h3>
-                        <div className="row">
-                            <div className="col-md-3">
-                                <span className="bold">Personal Page</span>
-                            </div>
-                            <div className="col-md-9">
-                                <p className="list"><i class="fas fa-angle-right" />Built a Single-Page Application(SPA) from scratch with React</p>
-                                <p className="list"><i class="fas fa-angle-right" />Developed web pages in Responsive Design using Bootstrap</p>
-                                <p className="list"><i class="fas fa-angle-right" />Built contact form with form validation function</p>
-                            </div>
-                        </div>
+
 
                         <h3>Education</h3>
                         <div className="row">
@@ -93,10 +98,10 @@ function Resume() {
                         <div className="mt-3">
                             <h4>Personal Info</h4>
                             <hr></hr>
-                            {/* <h6>Personal Page:</h6>
-                            <p>https://sameasychen.github.io/</p> */}
                             <h6>Email:</h6>
                             <p>sam.hs.chen@gmail.com</p>
+                            <h6>Location:</h6>
+                            <p>Ontario, Canada</p>
                             <h6>Github:</h6>
                             <p><a href="https://github.com/sameasychen">sameasychen</a></p>
                         </div>
@@ -111,6 +116,7 @@ function Resume() {
                             <p>Version Control (e.g. Git)</p>
                             <p>React</p>
                             <p>Node.js NPM</p>
+                            <p>Photoshop</p>
 
                         </div>
 

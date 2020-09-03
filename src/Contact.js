@@ -7,12 +7,6 @@ import ContactForm from './ContactForm'
 
 class Contact extends React.Component {
 
-  constructor() {
-    super()
-
-  }
-
-
 
   render() {
     return (
@@ -29,14 +23,9 @@ class Contact extends React.Component {
 
         <ContactForm />
 
-        {/* <MyComponent/> */}
-
       </div>
     );
   }
 }
 
 export default Contact
-// export default GoogleApiWrapper({
-//   apiKey: ("AIzaSyD-g4346Jbyx626QmWPTh-mfaCiYeR6hjY")
-// })(Contact)
