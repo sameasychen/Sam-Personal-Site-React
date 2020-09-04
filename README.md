@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 This repository is my personal page built with React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,7 +69,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# Sam-Personal-Site-React
-This repository is my personal page built with React.
->>>>>>> 5ccf4f0c9d669cd42611809acaaa53f50d8b1bc3
