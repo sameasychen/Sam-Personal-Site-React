@@ -18,12 +18,11 @@ function Resume() {
             <div className="resumesec mx-auto row my-3">
                 <div className="col-md-8 pt-3">
                     <div className="px-3">
-                        <p>Junior
-                        front end developer with passion for web
-                        develop ment . Ev en wi th 5 years of experience as a mech anical engineer , I d ecided to l earning web development full time to become a programmer I am keen to gain more experience in this field. I am therefore currently looking for a job or an internship as a fron t end developer.</p>
+                        <p>Junior front end developer with passion for web
+                        development. Even with 5 years of experience as a mechanical engineer , I decided to learning web development full time to become a programmer I am keen to gain more experience in this field. I am therefore currently looking for a job or an internship as a front end developer.</p>
 
                         <h3>Project</h3>
-                        <div className="row">
+                        <div className="row mt-4">
                             <div className="col-md-3">
                                 <span className="bold">My Reads</span>
                             </div>
@@ -47,9 +46,9 @@ function Resume() {
                         </div>
 
                         <h3>Certificate</h3>
-                        <div className="row">
+                        <div className="row mt-3">
                             <div className="col-md-3">
-                                Aug 2020-Now
+                                Aug2020-Now
                             </div>
                             <div className="col-md-9">
                                 <p><span className="bold">React Developer</span> - Udacity Nanodegreee Program </p>
@@ -61,7 +60,7 @@ function Resume() {
                         </div>
                         <div className="row">
                             <div className="col-md-3">
-                                2020 Jun to 2020 Aug
+                                2020Jun to 2020Aug
                             </div>
                             <div className="col-md-9">
                                 <p><span className="bold">HTML, CSS, and Javascript for Web Developers</span> - Johns Hopkins University</p>
