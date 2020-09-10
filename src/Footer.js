@@ -7,8 +7,9 @@ function Footer() {
     <div className="Footer">
       <div className="sitemap mx-auto row">
         <div className="text-center col">
-          <a className="link" href="https://www.linkedin.com/">Linkedin</a>
+          <a className="link" href="https://www.linkedin.com/in/hanshi-chen-6684636a/">Linkedin</a>
         </div>
+        
         <div className="text-center col">
           <a className="link" href="https://github.com/sameasychen">Github</a>
         </div>

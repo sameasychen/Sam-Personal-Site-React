@@ -18,33 +18,36 @@ function Resume() {
             <div className="resumesec mx-auto row my-3">
                 <div className="col-md-8 pt-3">
                     <div className="px-3">
-                        <p>Junior front end developer with passion for web
-                        development. Even with 5 years of experience as a mechanical engineer , I decided to learning web development full time to become a programmer I am keen to gain more experience in this field. I am therefore currently looking for a job or an internship as a front end developer.</p>
-
+                        <p>Energetic professional with extensive web development skills seeking a position of Junior front-end developer. Even with 5 years of past experience as a mechanical engineer, I decided to learning web development full time for almost 5 months to become a programmer. I am fascinated by web development and keen to gain more experience in this field.</p>
+                        <hr></hr>
                         <h3>Project</h3>
                         <div className="row mt-4">
                             <div className="col-md-3">
                                 <span className="bold">My Reads</span>
+                                <div><a href="https://github.com/sameasychen/MyReads-Projects">GitHub Repo</a></div>
+                                <div><a href="https://dazzling-turing-b4a8de.netlify.app/">Live Demo</a></div>
                             </div>
                             <div className="col-md-9">
-                                <p className="list"><i class="fas fa-angle-right" />Create virtual bookshelves to store books and track the shelf state of each book</p>
-                                <p className="list"><i class="fas fa-angle-right" />Search for new books from a Books API to add into your own shelf as a react component</p>
-                                <p className="list"><i class="fas fa-angle-right" />Use React s setState to build functionality to move books between shelves</p>
-                                <p className="list"><i class="fas fa-angle-right" />Use React Router to link pages for easy navigation</p>
+                                <p className="list"><i class="fas fa-angle-right" />Created virtual bookshelves to store books and organize books accordingly</p>
+                                <p className="list"><i class="fas fa-angle-right" />Searched for new books using a Books API from database and add new book on your own shelf</p>
+                                <p className="list"><i class="fas fa-angle-right" />Used React setState to build functionality moving books between shelves </p>
+                                <p className="list"><i class="fas fa-angle-right" />API call using AJAX and JSON to fetch data from database</p>
                             </div>
                         </div>
-                        <div className="row">
+                        <div className="row mt-3">
                             <div className="col-md-3">
-                                <span className="bold">Personal Page</span>
+                                <span className="bold">Mockup to Personal Page</span>
+                                <div><a href="https://github.com/sameasychen/Sam-Personal-Site-React">GitHub Repo</a></div>
+                                <div><a href="./">Live Demo</a></div>
                             </div>
                             <div className="col-md-9">
                                 <p className="list"><i class="fas fa-angle-right" />Revamped UI and built web pages using React</p>
                                 <p className="list"><i class="fas fa-angle-right" />Used React Router to turn web pages into Single Page Application</p>
-                                <p className="list"><i class="fas fa-angle-right" />Develo p ed web pages in Responsive Design using Bootstrap</p>
+                                <p className="list"><i class="fas fa-angle-right" />Developed web pages in Responsive Design using Bootstrap</p>
                                 <p className="list"><i class="fas fa-angle-right" />Built contact form with form validation using Javascript</p>
                             </div>
                         </div>
-
+                        <hr></hr>
                         <h3>Certificate</h3>
                         <div className="row mt-3">
                             <div className="col-md-3">
@@ -60,17 +63,17 @@ function Resume() {
                         </div>
                         <div className="row">
                             <div className="col-md-3">
-                                2020Jun to 2020Aug
+                                2020Jun - 2020Aug
                             </div>
                             <div className="col-md-9">
-                                <p><span className="bold">HTML, CSS, and Javascript for Web Developers</span> - Johns Hopkins University</p>
+                                <p><span className="bold">HTML, CSS, and Javascript for Web Developers</span> - Coursera Johns Hopkins University</p>
                                 <p className="list"><i class="fas fa-angle-right" /> Learn the basics of HTML5, CSS3, Javascript</p>
                                 <p className="list"><i class="fas fa-angle-right" /> Build responsive static website with bootstrap</p>
                             </div>
                         </div>
 
 
-
+                        <hr></hr>
                         <h3>Education</h3>
                         <div className="row">
                             <div className="col-md-3">
@@ -87,7 +90,6 @@ function Resume() {
                             </div>
                             <div className="col-md-9">
                                 <p>Bachelor of Mechanical Engineering</p>
-
                             </div>
                         </div>
                     </div>
@@ -99,10 +101,10 @@ function Resume() {
                             <hr></hr>
                             <h6>Email:</h6>
                             <p>sam.hs.chen@gmail.com</p>
-                            <h6>Location:</h6>
-                            <p>Ontario, Canada</p>
                             <h6>Github:</h6>
                             <p><a href="https://github.com/sameasychen">sameasychen</a></p>
+                            <h6>Linkedin:</h6>
+                            <p><a href="https://www.linkedin.com/in/hanshi-chen-6684636a/">Hanshi Chen</a></p>
                         </div>
                         <div className="mt-4">
                             <h4>Skills</h4>
@@ -116,7 +118,6 @@ function Resume() {
                             <p>React</p>
                             <p>Node.js NPM</p>
                             <p>Photoshop</p>
-
                         </div>
 
                     </div>

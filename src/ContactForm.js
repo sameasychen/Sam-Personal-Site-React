@@ -87,10 +87,10 @@ class ContactForm extends React.Component {
         <div className="ContactForm container my-5">
             {/* <h4 class="font-weight-bold my-5 text-center">CONTACT ME</h4> */}
 
+            
             <br/>
             <br/>
-            <br/>
-            <div className="row container mx-auto">
+            <div className="row container mx-auto mt-5 mb-5">
                 <div className="mb-4 col-sm-6">
                     <form onSubmit={this.handleSubmit}>
                         <div className="form-group">
@@ -170,15 +170,19 @@ class ContactForm extends React.Component {
                     <br/>
 
                     <p class="lineheight">
-                        <span class="font-weight-bold">email: </span>
+                        <span class="font-weight-bold">Email: </span>
                         sam.hs.chen@gmail.com
                     </p>
 
-
-                    <br/>
                     <p class="lineheight">
-                        <span class="font-weight-bold">github: </span>
-                        <a href="https://github.com/sameasychen">sameasychen</a>
+                        <span class="font-weight-bold">Linkedin: </span>
+                        <a href="https://www.linkedin.com/in/hanshi-chen-6684636a/" >Hanshi Chen</a>
+                    </p>
+
+                
+                    <p class="lineheight">
+                        <span class="font-weight-bold">GitHub: </span>
+                        <a href="https://github.com/sameasychen" >sameasychen</a>
                     </p>
 
                 </div>
@@ -190,9 +194,7 @@ class ContactForm extends React.Component {
             <br/>
             <br/>
             <br/>
-            <br/>
-            <br/>
-            <br/>
+
 
 
         </div>
