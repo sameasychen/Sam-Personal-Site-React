@@ -18,9 +18,21 @@ function Resume() {
             <div className="resumesec mx-auto row my-3">
                 <div className="col-md-8 pt-3">
                     <div className="px-3">
-                        <p>Energetic professional with extensive web development skills seeking a position of Junior front-end developer. Even with 5 years of past experience as a mechanical engineer, I decided to learning web development full time for almost 5 months to become a programmer. I am fascinated by web development and keen to gain more experience in this field.</p>
+                        <p>Energetic professional with extensive web development skills seeking a position of Junior front-end developer. Even with 5 years of past experience as a mechanical engineer, I decided to learning web development full time for almost 6 months to become a programmer. I am fascinated by web development and keen to gain more experience in this field.</p>
                         <hr></hr>
                         <h3>Project</h3>
+                        <div className="row mt-4">
+                            <div className="col-md-3">
+                                <span className="bold">Tweeter Clone</span>
+                                <div><a href="https://github.com/sameasychen/Project-Tweeter_Clone">GitHub Repo</a></div>
+                                <div><a href="https://serene-ardinghelli-59ea97.netlify.app/">Live Demo</a></div>
+                            </div>
+                            <div className="col-md-9">
+                                <p className="list"><i class="fas fa-angle-right" />Created a Tweeter Clone project with tweet timeline, and function of likes and reply</p>
+                                <p className="list"><i class="fas fa-angle-right" />Use React-Redux to share same state through different views</p>
+                                <p className="list"><i class="fas fa-angle-right" />Improve web response time with optimistic update to update UI when dealing with asynchronous requests</p>
+                            </div>
+                        </div>
                         <div className="row mt-4">
                             <div className="col-md-3">
                                 <span className="bold">My Reads</span>
@@ -51,7 +63,7 @@ function Resume() {
                         <h3>Certificate</h3>
                         <div className="row mt-3">
                             <div className="col-md-3">
-                                Aug2020-Now
+                                July2020-Now
                             </div>
                             <div className="col-md-9">
                                 <p><span className="bold">React Developer</span> - Udacity Nanodegreee Program </p>
@@ -63,7 +75,7 @@ function Resume() {
                         </div>
                         <div className="row">
                             <div className="col-md-3">
-                                2020Jun - 2020Aug
+                                2020May - 2020July
                             </div>
                             <div className="col-md-9">
                                 <p><span className="bold">HTML, CSS, and Javascript for Web Developers</span> - Coursera Johns Hopkins University</p>
@@ -116,6 +128,7 @@ function Resume() {
                             <p>Bootstrap</p>
                             <p>Version Control (e.g. Git)</p>
                             <p>React</p>
+                            <p>Redux</p>
                             <p>Node.js NPM</p>
                             <p>Photoshop</p>
                         </div>
