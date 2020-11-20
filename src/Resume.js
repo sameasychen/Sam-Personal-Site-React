@@ -23,6 +23,18 @@ function Resume() {
                         <h3>Project</h3>
                         <div className="row mt-4">
                             <div className="col-md-3">
+                                <span className="bold">Food Order</span>
+                                <div><a href="https://github.com/sameasychen/Project_FoodOrder">GitHub Repo</a></div>
+                                <div><a href="https://frosty-bartik-270ea2.netlify.app/">Live Demo</a></div>
+                            </div>
+                            <div className="col-md-9">
+                                <p className="list"><i class="fas fa-angle-right" /> Build a responsive restaurant food order for pickup web application</p>
+                                <p className="list"><i class="fas fa-angle-right" /> Simple and clean UI design with mobile device friendly, to better meet clients’ requirement</p>
+                                <p className="list"><i class="fas fa-angle-right" /> Skills used: React.js, JavaScript, HTML5, JSON, React-Router, Bootstrap</p>
+                            </div>
+                        </div>
+                        <div className="row mt-4">
+                            <div className="col-md-3">
                                 <span className="bold">Tweeter Clone</span>
                                 <div><a href="https://github.com/sameasychen/Project-Tweeter_Clone">GitHub Repo</a></div>
                                 <div><a href="https://serene-ardinghelli-59ea97.netlify.app/">Live Demo</a></div>
@@ -133,11 +145,10 @@ function Resume() {
                             <p>Responsive Design</p>
                             <p>SPA</p>
                             <p>Promise</p>
-                            <p>Prototype</p>
-                            <p>ECMAScript6</p>
                             <p>Docker</p>
                             <p>Linux</p>
                             <p>Photoshop</p>
+                            <p>Postman</p>
                         </div>
 
                     </div>
