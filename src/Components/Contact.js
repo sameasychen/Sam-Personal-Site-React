@@ -1,12 +1,7 @@
 import React from 'react';
 import ContactForm from './ContactForm'
 
-// import { Map, InfoWindow, Marker, GoogleApiWrapper } from 'google-maps-react';
-// import MyComponent from './GoogleMap';
-
-
 class Contact extends React.Component {
-
 
   render() {
     return (

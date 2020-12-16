@@ -14,7 +14,7 @@ class Nav extends React.Component {
         Home
         </Link>
         <Link className="link col" to="/Resume">
-        Resume
+        Portfolio
         </Link>
         <Link className="link col" to="/Contact">
         Contact

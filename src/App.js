@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
-import Header from './Header'
-import Footer from './Footer'
-import Home from './Home'
-import Resume from './Resume'
-import Contact from './Contact'
+import Header from './Components/Header'
+import Footer from './Components/Footer'
+import Home from './Components/Home'
+import Resume from './Components/Resume'
+import Contact from './Components/Contact'
+import Portfolio from './Components/Portfolio'
+
 import { Route } from 'react-router-dom'
 
 function App() {
@@ -15,10 +17,11 @@ function App() {
           <Route path="/resume" render={() => (
             <div>
               <Header />
-              <Resume />
+              <Portfolio />
               <Footer />
             </div>
           )}  />
+
           <Route path="/contact" render={() => (
             <div>
               <Header />
@@ -26,6 +29,7 @@ function App() {
               <Footer />
             </div>
           )} />
+          
           <Route exact path="/" render={() => (
             <div>
               <Header />

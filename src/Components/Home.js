@@ -1,8 +1,8 @@
 import React from 'react';
-import Logo from './pics/selfie150.jpg'
-import divider from './pics/divider.jpg'
-import react from './pics/React.jpg'
-import pencil from './pics/pencil.jpg'
+import Logo from '../pics/selfie150.jpg'
+import divider from '../pics/divider.jpg'
+import react from '../pics/React.jpg'
+import pencil from '../pics/pencil.jpg'
 import { Link } from 'react-router-dom';
 
 

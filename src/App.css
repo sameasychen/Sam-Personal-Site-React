@@ -155,7 +155,7 @@ h2,h3,h4,h5,h6{
 }
 
 .messagebtn:hover{
-  background-color: #125568;
+  background-color: #1b86a3;
 }
 
 
@@ -205,6 +205,30 @@ h2,h3,h4,h5,h6{
   height: 180px;
   width: 100%;
   
+}
+
+.menuItem{
+  margin: 20px 0;
+}
+
+.projectItem{
+  background-color: white;
+  /* width: 170px; */
+  
+  border: 1px solid rgb(224, 224, 224);
+  transition-duration: 0.3s;
+}
+
+.projectItem:hover{
+  border: 1px solid rgb(179, 179, 179);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.picImg{
+  position: relative;
+  width: 100%;
+  height: auto;
 }
 
 /* Resume Section End */
