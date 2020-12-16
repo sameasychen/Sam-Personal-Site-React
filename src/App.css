@@ -32,11 +32,8 @@ h2,h3,h4,h5,h6{
 .link{
   font-family: 'Noto Sans TC', sans-serif;
   text-decoration: none;
-  font-weight: 300;
-}
-
-.link:link{
-  color: #125568;
+  font-weight: 400;
+  font-size: 1.3em;
 }
 
 .link:visited{
@@ -44,12 +41,13 @@ h2,h3,h4,h5,h6{
 }
 
 .link:hover{
-  color: #1d8fa9;
+  color: #062c35;
+  text-decoration: none;
+  font-size: 1.6em;
+  transition-duration: 0.15s;
+
 }
 
-.link:active{
-  color: #1d8fa9;
-}
 
 .bold{
   font-weight: 600;
