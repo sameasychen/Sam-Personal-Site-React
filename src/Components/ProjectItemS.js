@@ -2,14 +2,12 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 
-const ProjectItem = props => {
+const ProjectItemS = props => {
 
     const projectImgs = props.project.projectImg;
 
     return (
         <div className="menuItem col-sm-4 col-6">
-
-            {/* {props.project.projectID}+{props.project.projectName} */}
 
             <div className="projectItem inline-block mt=5">
                 <div className="dishPic">
@@ -32,13 +30,7 @@ const ProjectItem = props => {
                                     LiveDemo
                                 </a>
                             </td>
-                            <td  className="urlTable2 text-center p-2">
-                                <a
-                                    className="urlLink text-light"
-                                    href={props.project.projectCodeUrl}>
-                                    GitHub Repo
-                                </a>
-                            </td>
+                            
                         </tr>
                     </tbody>
                 </table>
@@ -47,4 +39,4 @@ const ProjectItem = props => {
     );
 }
 
-export default ProjectItem;
+export default ProjectItemS;

@@ -231,6 +231,34 @@ h2,h3,h4,h5,h6{
   height: auto;
 }
 
+.urlLink:hover{
+
+  text-decoration: none;
+
+}
+
+.urlTable{
+  background-color:rgb(106, 172, 189);
+
+}
+
+.urlTable2{
+  background-color:rgb(99, 108, 110);
+
+}
+
+.urlTable:hover{
+  background-color:rgb(31, 33, 41);
+  transition-duration: 0.3s;
+  text-decoration: none;
+}
+
+.urlTable2:hover{
+  background-color:rgb(31, 33, 41);
+  transition-duration: 0.3s;
+  text-decoration: none;
+}
+
 /* Resume Section End */
 
 

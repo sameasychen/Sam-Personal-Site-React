@@ -1,5 +1,6 @@
 import React from 'react';
 import ProjectItem from './ProjectItem';
+import ProjectItemS from './ProjectItemS';
 import projects from '../Projects';
 import sprojects from '../sProjects';
 
@@ -40,7 +41,7 @@ const Portfolio = props => {
 
             <div className="row col-md-8 mx-auto">
 
-                {sprojects.map(data => <ProjectItem key={data.projectID} project={data} />)}
+                {sprojects.map(data => <ProjectItemS key={data.projectID} project={data} />)}
 
             </div>
 
