@@ -20,6 +20,13 @@ const Projects=
         "projectImg": require("./pics/ProjectImg/FoodOrderPic.jpg"),
         "projectLiveUrl":"https://frosty-bartik-270ea2.netlify.app/",
         "projectCodeUrl":"https://github.com/sameasychen/Project_FoodOrder"
+    },
+    {
+        "projectID": "004",
+        "projectName": "Fridge Menu",
+        "projectImg": require("./pics/ProjectImg/FridgeMenu.JPG"),
+        "projectLiveUrl":"https://elastic-aryabhata-76e8bd.netlify.app/",
+        "projectCodeUrl":"https://github.com/sameasychen/Fridge-Menu"
     }
 ]
 

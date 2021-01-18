@@ -25,7 +25,7 @@ const Portfolio = props => {
 
 
 
-            <h4 className="text-center text-dark my-3">Websites</h4>
+            <h4 className="text-center text-dark my-3">Web App</h4>
 
 
             <div className="Content row mx-auto contentwidth">

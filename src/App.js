@@ -3,7 +3,7 @@ import './App.css';
 import Header from './Components/Header'
 import Footer from './Components/Footer'
 import Home from './Components/Home'
-import Resume from './Components/Resume'
+// import Resume from './Components/Resume'
 import Contact from './Components/Contact'
 import Portfolio from './Components/Portfolio'
 
@@ -14,7 +14,7 @@ function App() {
   
       <div className="App">
 
-          <Route path="/resume" render={() => (
+          <Route path="/portfolio" render={() => (
             <div>
               <Header />
               <Portfolio />

@@ -13,10 +13,10 @@ class Nav extends React.Component {
         <Link className="link col" to="/">
         Home
         </Link>
-        <Link className="link col" to="/Resume">
+        <Link className="link col" to="/portfolio">
         Portfolio
         </Link>
-        <Link className="link col" to="/Contact">
+        <Link className="link col" to="/contact">
         Contact
         </Link>
         
